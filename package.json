@@ -1,0 +1,23 @@
+{
+  "name": "getting_started_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haryan248/Getting_Started_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haryan248/Getting_Started_Typescript/issues"
+  },
+  "homepage": "https://github.com/haryan248/Getting_Started_Typescript#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
